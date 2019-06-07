@@ -1,0 +1,17 @@
+********************************* 1. row *********************************
+                    id: 4
+                 email: prodeveloper@example.com
+    encrypted_password: $2a$11$ON3b6FQHhIfPH1aS1sCh4uurAQZPnQbj1.dKXzvi0AuAqXEqbfO9C
+  reset_password_token: 
+reset_password_sent_at: 
+   remember_created_at: 
+         sign_in_count: 1
+    current_sign_in_at: 2019-06-06 04:45:27 UTC
+       last_sign_in_at: 2019-06-06 04:45:27 UTC
+    current_sign_in_ip: 137.205.1.26
+       last_sign_in_ip: 137.205.1.26
+            created_at: 2019-06-06 04:45:27 UTC
+            updated_at: 2019-06-06 04:45:27 UTC
+               plan_id: 2
+ stripe_customer_token: cus_FCcju8tIma6ltU
+1 row in set
